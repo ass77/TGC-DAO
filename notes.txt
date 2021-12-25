@@ -1,0 +1,23 @@
+https://dashboard.alchemyapi.io/
+
+https://thirdweb.com/rinkeby/0x29f5608d05A050E5BE00eF013cB16F40Ea0dc6BB/bundle-drop/0x250A20Ce34DAC766fe2Eb143238e9d4eCA26e1d6
+
+https://testnets.opensea.io/assets/0x250a20ce34dac766fe2eb143238e9d4eca26e1d6/0
+
+https://rinkeby.etherscan.io/address/0x99abef7FF9e6aFDc1C4C4e52A621Ab8AD5931F8F
+
+https://cloudflare-ipfs.com/ipfs/bafkreidrbdtrdbiaqwidpz5b6lahju3ppbkxmqeenysvvv4pb3tjjskele
+
+airdrop cmd: 
+
+appModule
+0x29f5608d05A050E5BE00eF013cB16F40Ea0dc6BB
+
+rexx bundle module (nft)
+0x250A20Ce34DAC766fe2Eb143238e9d4eCA26e1d6
+
+rexx token module
+0x99abef7FF9e6aFDc1C4C4e52A621Ab8AD5931F8F
+
+votingModule
+0xCf8aB4f1266E2a63C63452F4b32DD2bb03C0eeef

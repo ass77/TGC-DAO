@@ -1,11 +1,15 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# TGCDAO built with buildspace x thirdweb
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+### Full-fledged DAO for TGC
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+✅ deployed rexxie custom ERC-20 token called REXX
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+✅ deployed rexxie ERC-1155 NFT people can mint to join TGC DAO.
+
+✅ deployed TGC governance contract + treasury.
+
+✅ built a dapp that lets people connect their wallet, get an NFT, see a TGC DAO Dashboard where they can see other members + actually vote on proposals that are executed directly by your governance contract.
+
+### Announcement/Future Work
+
+1. TGC Roadmap (2022 onwards) starting with generation of rex
