@@ -8,7 +8,7 @@ https://rinkeby.etherscan.io/address/0x99abef7FF9e6aFDc1C4C4e52A621Ab8AD5931F8F
 
 https://cloudflare-ipfs.com/ipfs/bafkreidrbdtrdbiaqwidpz5b6lahju3ppbkxmqeenysvvv4pb3tjjskele
 
-airdrop cmd: 
+airdrop to members: node scripts/7-airdrop-token.js 
 
 appModule
 0x29f5608d05A050E5BE00eF013cB16F40Ea0dc6BB
