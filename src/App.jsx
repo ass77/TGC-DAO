@@ -155,8 +155,8 @@ const App = () => {
       <div className="unsupported-network">
         <h2>Please connect to Rinkeby</h2>
         <p>
-          This dapp only works on the Rinkeby network, please switch networks
-          in your connected wallet.
+          This dapp only works on the Rinkeby network, please switch networks in
+          your connected wallet.
         </p>
       </div>
     );
@@ -176,7 +176,7 @@ const App = () => {
   if (hasClaimedNFT) {
     return (
       <div className="member-page">
-        <marquee style={{fontSize: "69px"}}>🐱‍🐉TGCDAO Member Page</marquee>
+        <marquee style={{ fontSize: "69px" }}>🐱‍🐉TGCDAO Member Page</marquee>
         <p>Congratulations on being a member</p>
         <div>
           <div>
@@ -315,8 +315,8 @@ const App = () => {
                 {isVoting
                   ? "Voting..."
                   : hasVoted
-                    ? "You Already Voted"
-                    : "Submit Votes"}
+                  ? "You Already Voted"
+                  : "Submit Votes"}
               </button>
               <small>
                 This will trigger multiple transactions that you will need to
@@ -327,7 +327,7 @@ const App = () => {
         </div>
       </div>
     );
-  };
+  }
 
   const mintNft = () => {
     setIsClaiming(true);
@@ -350,6 +350,12 @@ const App = () => {
       });
   };
 
+  // const methodDoesNotExist = () => {
+  //   throw new Error(
+  //     "This is an error from the example component for sentry testing"
+  //   );
+  // };
+
   // Render mint nft screen.
   return (
     <div className="mint-nft">
@@ -357,6 +363,8 @@ const App = () => {
       <button disabled={isClaiming} onClick={() => mintNft()}>
         {isClaiming ? "Minting..." : "Mint your nft (FREE)"}
       </button>
+      {/* <br />
+      <button onClick={methodDoesNotExist}>Break the world</button> */}
     </div>
   );
 };
